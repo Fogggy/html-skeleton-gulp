@@ -1,0 +1,27 @@
+{
+  "name": "html-skeleton-gulp",
+  "version": "1.0.0",
+  "description": "Simple HTML skeleton with gulp plugins",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "imagemin-pngquant": "^4.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
